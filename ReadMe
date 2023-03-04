@@ -1,0 +1,4 @@
+Custom fonts in react native
+1. make assets/fonts folder in android/src/main
+2. run "npx react-native-asset"
+ref : https://blog.devgenius.io/implement-custom-fonts-on-react-native-0-70-649c16f7609f
