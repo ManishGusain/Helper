@@ -16,3 +16,14 @@ module.exports = {
 
 5... run "npx react-native-asset"
 ref : https://blog.devgenius.io/implement-custom-fonts-on-react-native-0-70-649c16f7609f
+
+
+Gif files in react native
+-add these dependencies in app/buil.gradle
+
+```
+implementation 'com.facebook.fresco:animated-gif:2.6.0'
+implementation 'com.facebook.fresco:animated-webp:2.0.0'
+implementation 'com.facebook.fresco:webpsupport:2.0.0'
+```
+ref: https://www.youtube.com/watch?v=8RL8XwxXC5g
